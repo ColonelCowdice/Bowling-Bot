@@ -97,4 +97,4 @@ async def on_command_error(ctx, error):
     else:
         raise error
 
-bot.run('OTY3ODgwNjE2NjU1ODU5Nzcy.GQkLMf.8VWrnukRYB4QDPjjIt7etMVWyDeXGENgILh4Fo') 
+bot.run('Insert Token here') 
